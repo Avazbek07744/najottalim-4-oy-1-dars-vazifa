@@ -70,3 +70,9 @@
 // }
 
 // console.log(number + " ning uchinchi darajali ildizi:", guess);
+
+let nums = +prompt("Son kiriting ...")
+
+let result = Math.cbrt(nums);
+
+console.log(`Berilgan sonning kub ildizi: ${result}`);
