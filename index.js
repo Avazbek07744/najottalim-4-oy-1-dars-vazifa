@@ -71,6 +71,8 @@
 
 // console.log(number + " ning uchinchi darajali ildizi:", guess);
 
+//! 9-misol
+
 let nums = +prompt("Son kiriting ...")
 
 let result = Math.cbrt(nums);
